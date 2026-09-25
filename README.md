@@ -1,14 +1,15 @@
-### Hi, I'm Pedro 👋
+### Hi, I'm Pedro Gerolin 👋
 
-I learn data engineering by building and running real systems, not tutorials.
+Specialist Data Engineer at Cruzeiro do Sul Educacional, 10+ years working with data — mostly SQL Server
+and ETL, more recently the Google Cloud / BigQuery / Dataform stack. Outside of work I build and run real
+systems to learn the tools my day job doesn't touch yet.
 
-**[FisioVet Data Platform →](https://github.com/PedroGerolin/Airflow)** is my main project: an Airflow
-pipeline that runs daily for a real business, loading data into **BigQuery and Snowflake in parallel**
-through dbt, with a Streamlit app on top that replaced a manual billing process. The README walks through
-three real data bugs a strict cross-warehouse parity check caught — that's the part worth reading.
+**[FisioVet Data Platform →](https://github.com/PedroGerolin/Airflow)** is where that shows up: a daily
+Airflow pipeline for a real small business, loading **BigQuery and Snowflake in parallel** through dbt,
+with a Streamlit billing app on top. The README covers three real data bugs a strict cross-warehouse
+parity check caught — that's the part worth reading.
 
-**Currently building / learning:** dbt across multiple warehouses, GCP IAM least-privilege design,
-Snowflake (storage integrations, RBAC, key-pair auth), and testing a Streamlit app against a real warehouse
-instead of mocks.
+**Stack at work:** GCP · BigQuery · Dataform · Composer · Python · GA4
+**Stack I'm building up on my own time:** Airflow · dbt (multi-warehouse) · Snowflake · Streamlit · Docker
 
-📍 São Paulo, Brazil
+📍 São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/pedrogerolin/) · pedro_gerolin@yahoo.com.br
